@@ -1,1 +1,6 @@
-# COGS-120-Web-App-Project
+# Classified Ad Platform for University Students
+
+
+
+
+
